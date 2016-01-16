@@ -1,4 +1,5 @@
 # ciwise-timekeeper
+[![Build Status: Linux](https://travis-ci.org/ciwise/ciwise-timekeeper.svg?branch=master)](https://travis-ci.org/ciwise/ciwise-timekeeper)
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.15.1.
