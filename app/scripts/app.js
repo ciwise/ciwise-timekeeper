@@ -33,3 +33,5 @@ angular
         redirectTo: '/'
       });
   });
+
+  $.material.init();
